@@ -1,4 +1,4 @@
-package kr.co.basicmvc;
+package kr.co.form1;
 
 import java.text.DateFormat;
 import java.util.Date;

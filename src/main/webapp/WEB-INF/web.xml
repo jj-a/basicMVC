@@ -31,7 +31,6 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
-
 	<!-- 한글 변환 필터 -->
 	<filter>
 		<filter-name>encodingFilter</filter-name>
@@ -41,6 +40,7 @@
 			<param-value>UTF-8</param-value>
 		</init-param>
 		<init-param>
+			<!-- 인코딩 강제 세팅 여부 -->
 			<param-name>forceEncoding</param-name>
 			<param-value>true</param-value>
 		</init-param>

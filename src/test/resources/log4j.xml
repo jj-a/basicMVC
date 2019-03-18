@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="kr.co.basicmvc">
+	<logger name="kr.co.form1">
 		<level value="info" />
 	</logger>
 	

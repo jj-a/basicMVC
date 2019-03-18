@@ -4,5 +4,11 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 	
 	<!-- Root Context: defines shared resources visible to all other web components -->
+	
+	<!-- DI (Dependency Injection) 의존성 주입 -->
+	
+	<!-- Spring Bean 객체 등록 -->
+	<!-- DB 연결 정보를 Spring Bean으로 등록 -->
+	
 		
 </beans>
