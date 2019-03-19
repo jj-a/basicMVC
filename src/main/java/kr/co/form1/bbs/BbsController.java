@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class BbsController {
 	
 	public BbsController() {
-		System.out.println("CalcController Start");
+		System.out.println("BbsController Start");
 	}
 	
 	/*
